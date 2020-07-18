@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/node-fetch-html",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fetch html with node-fetch.",
   "homepage": "https://github.com/afeiship/node-fetch-html",
   "author": {
@@ -33,6 +33,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
+    "@feizheng/next-spider-fetch": "^1.2.0",
     "node-fetch": "^2.6.0"
   }
 }

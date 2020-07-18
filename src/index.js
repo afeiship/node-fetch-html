@@ -1,5 +1,5 @@
-import nodeFetch from 'node-fetch';
+import nxSpiderFetch from '@feizheng/next-spider-fetch';
 
 export default (inUrl, inOptions) => {
-  return nodeFetch(inUrl, inOptions).then(res => res.text());
+  return nxSpiderFetch(inUrl, inOptions).then(res => res.text());
 };
