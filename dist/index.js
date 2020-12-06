@@ -3,7 +3,7 @@
  * description: Fetch html with node-fetch.
  * homepage: https://github.com/afeiship/node-fetch-html
  * version: 1.0.0
- * date: 2020-12-06 13:26:27
+ * date: 2020-12-06 13:49:38
  * license: MIT
  */
 
