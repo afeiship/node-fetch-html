@@ -1,9 +1,9 @@
 /*!
- * name: @feizheng/node-fetch-html
+ * name: @jswork/node-fetch-html
  * description: Fetch html with node-fetch.
  * homepage: https://github.com/afeiship/node-fetch-html
  * version: 1.0.0
- * date: 2020-07-18T13:17:44.416Z
+ * date: 2020-12-06 13:26:27
  * license: MIT
  */
 

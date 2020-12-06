@@ -3,12 +3,12 @@
 
 ## installation
 ```shell
-npm install -S @feizheng/node-fetch-html
+npm install -S @jswork/node-fetch-html
 ```
 
 ## usage
 ```js
-import nodeFetchHtml from '@feizheng/node-fetch-html';
+import nodeFetchHtml from '@jswork/node-fetch-html';
 
 nodeFetchHtml('http://www.baidu.com').then(res => {
   // html
