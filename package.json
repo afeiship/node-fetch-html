@@ -32,9 +32,17 @@
     "release-it": "^14.2.2"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
     "node-fetch": "^2.6.1"
-  }
+  },
+  "keywords": [
+    "node",
+    "fetch",
+    "html",
+    "spider",
+    "crawl"
+  ]
 }
