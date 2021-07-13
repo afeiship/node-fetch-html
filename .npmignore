@@ -12,3 +12,5 @@ gulpfile.js
 .npmrc
 .prettoerrc
 .release-it.json
+.babelrc
+.prettierrc

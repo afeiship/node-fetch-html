@@ -20,7 +20,7 @@
     "@jswork/gulp-pkg-header": "^1.0.3",
     "@jswork/next-nice-comments": "^1.0.1",
     "babel-plugin-transform-async-to-promises": "^0.8.15",
-    "cheerio": "^1.0.0-rc.3",
+    "canvas": "^2.8.0",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
@@ -36,7 +36,8 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "cheerio": "^1.0.0-rc.10"
   },
   "keywords": [
     "node",
