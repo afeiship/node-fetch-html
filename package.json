@@ -1,6 +1,6 @@
 {
   "name": "@jswork/node-fetch-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch html with node-fetch.",
   "homepage": "https://github.com/afeiship/node-fetch-html",
   "author": {
