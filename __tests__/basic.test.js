@@ -1,4 +1,4 @@
-const nodeFetchHtml = require('../dist').default;
+const nodeFetchHtml = require('../dist');
 
 jest.setTimeout(50000);
 

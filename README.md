@@ -8,9 +8,9 @@ npm install -S @jswork/node-fetch-html
 
 ## usage
 ```js
-import nodeFetchHtml from '@jswork/node-fetch-html';
+import nfh from '@jswork/node-fetch-html';
 
-nodeFetchHtml('http://www.baidu.com').then(($) => {
+nfh('http://www.baidu.com').then(($) => {
   console.log($('title').text());   // 百度
 });
 ```
